@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Frederic Tamagnan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/moi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine learning Student, looking for a 6-months research internship starting in september "
   location         : "Somewhere"
   email            :
