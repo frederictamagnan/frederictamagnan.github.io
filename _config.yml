@@ -12,8 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon"#, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "neon" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Portfolio"
@@ -102,8 +101,8 @@ analytics:
 author:
   name             : "Frederic Tamagnan"
   avatar           : "/assets/images/moi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine learning Student, looking for a 6-months research internship starting in september "
-  location         : "Somewhere"
+  bio              : "Machine learning Student, looking for a 6-month research internship starting in september "
+  location         : "Paris, France"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
