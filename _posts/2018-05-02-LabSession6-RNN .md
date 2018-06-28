@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 # ELU 502 Deep learning -- Lab session 5
-Pierre-Henri Conze, François Rousseau, Ronan Fablet - session: 1h20 (17th april)+3h (20th april)
+Practical session with Professors Pierre-Henri Conze, François Rousseau, Ronan Fablet - session: 1h20 (17th april)+3h (20th april)
 
 ### Objectives: perform classification on Fashion-MNIST dataset using multiple layer perceptrons, convolutional neural networks, data augmentation and transfer learning to obtain the best classification results as possible!
 
