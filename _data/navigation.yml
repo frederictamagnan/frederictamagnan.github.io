@@ -4,5 +4,7 @@ main:
     url: /assets/pdf/CV_FredericTamagnan.pdf
   - title: "Projects"
     url: /blog/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title : "Awards"
+    url : /awards/
+  - title: "Music"
+    url: /music/
