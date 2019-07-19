@@ -12,4 +12,10 @@ tags:
   - readability
   - standard
 ---
-DRUM FILLS
+# Details and audio samples
+<p>
+details coming soon
+</p>
+[Download audio samples (zip/mp3)](/assets/paper/audio/mp3paper.zip) <br/>
+[Download figures (zip/png)](/assets/paper/images/Plot.zip)
+

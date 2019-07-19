@@ -12,3 +12,5 @@ tags:
   - readability
   - standard
 ---
+#Details and audio samples
+<img src="/assets/images/personal.png">
