@@ -1,5 +1,5 @@
 ---
-title:  "CMMR 2019 : drum fills detection and generation"
+title:  "CMMR 2019 : drum fills detection and generation."
 layout: archive
 permalink: /drumfills/
 author_profile: true
@@ -15,7 +15,12 @@ tags:
 # Details and audio samples
 <p>
 details coming soon
+Drum fills Detection and Generation. Frederic Tamagnan and Yi-Hsuan Yang
+Proceedings of the 14th International Symposium on Computer Music Multidisciplinary Research
 </p>
-[Download audio samples (zip/mp3)](/assets/paper/audio/mp3paper.zip) <br/>
-[Download figures (zip/png)](/assets/paper/images/Plot.zip)
 
+
+[Download audio samples (zip/mp3)](/assets/paper/audio/mp3paper.zip) <br/>
+[Download figures (zip/png)](/assets/paper/images/Plot.zip)<br/>
+[Download paper (pdf)](/assets/paper/DrumFillsDetectionGeneration.pdf)<br/>
+[Download slides (pdf)](/assets/paper/DrumFillsDetectionGeneration_slides.pdf)<br/>
