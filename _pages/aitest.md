@@ -13,10 +13,9 @@ tags:
   - standard
 ---
 # Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bULAEwTbDf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-youtube video comming soon
-</p>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bULAEwTbDf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Download presentation (ppt)](/assets/aitest/presentation.pptx) <br/>
 [Download presentation (pdf)](/assets/aitest/presentation.pdf)<br/>
